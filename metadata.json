@@ -1,0 +1,6 @@
+{
+  "name": "Bakery Basket Catch Admin & Game Studio",
+  "description": "Whitelabel catching mini-game with Stripe-style admin studio and 42PlayStudio bridge integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
